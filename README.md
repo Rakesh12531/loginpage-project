@@ -49,7 +49,7 @@ Check out the working demo of the Nexus Login Page in action:
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live demo](https://github.com/Rakesh12531/loginpage-project/)
+👉 [Click here to view the live demo](https://rakesh12531.github.io/loginpage-project/)
 
 ---
 
